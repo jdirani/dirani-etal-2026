@@ -1,6 +1,6 @@
 # Readme
 
-This repository contains the analysis code associated with the paper: "Contextual Role Modulates Object Representational Geometry in the Human Brain"
+This repository contains the analysis code associated with the paper: "Flexibility and Invariance of Object Representations in the Human Brain"
 
 Preprint: https://arxiv.org/pdf/2605.23111
 
